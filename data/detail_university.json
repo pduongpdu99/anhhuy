@@ -1,0 +1,727 @@
+[
+    {
+        "university": "Đại học Quốc gia Hà Nội",
+        "faculties": [
+            {
+                "faculty": "Trường Đại học Khoa học Tự nhiên",
+                "programs": [
+                    {
+                        "name": "Vật lý",
+                        "code": "CN18"
+                    },
+                    {
+                        "name": "Hóa học",
+                        "code": "CN19"
+                    },
+                    {
+                        "name": "Toán học",
+                        "code": "CN20"
+                    },
+                    {
+                        "name": "Sinh học",
+                        "code": "CN21"
+                    },
+                    {
+                        "name": "Khoa học dữ liệu",
+                        "code": "CN22"
+                    },
+                    {
+                        "name": "Hải dương học",
+                        "code": "CN23"
+                    },
+                    {
+                        "name": "Kỹ thuật phần mềm",
+                        "code": "CN24"
+                    },
+                    {
+                        "name": "Thiết kế đồ họa",
+                        "code": "CN25"
+                    },
+                    {
+                        "name": "Kỹ thuật viễn thông",
+                        "code": "CN26"
+                    },
+                    {
+                        "name": "An ninh mạng",
+                        "code": "CN27"
+                    }
+                ]
+            },
+            {
+                "faculty": "Trường Đại học Khoa học Xã hội và Nhân văn",
+                "programs": [
+                    {
+                        "name": "Ngôn ngữ và văn hóa Nhật Bản",
+                        "code": "QHX61"
+                    },
+                    {
+                        "name": "Ngôn ngữ Tây Ban Nha",
+                        "code": "QHX62"
+                    },
+                    {
+                        "name": "Ngôn ngữ Ý",
+                        "code": "QHX63"
+                    },
+                    {
+                        "name": "Tâm lý học",
+                        "code": "QHX64"
+                    },
+                    {
+                        "name": "Ngữ văn học",
+                        "code": "QHX65"
+                    },
+                    {
+                        "name": "Xã hội học",
+                        "code": "QHX66"
+                    },
+                    {
+                        "name": "Triết học",
+                        "code": "QHX67"
+                    },
+                    {
+                        "name": "Lịch sử văn hóa",
+                        "code": "QHX68"
+                    },
+                    {
+                        "name": "Quản trị du lịch",
+                        "code": "QHX69"
+                    },
+                    {
+                        "name": "Khoa học giáo dục",
+                        "code": "QHX70"
+                    }
+                ]
+            },
+            {
+                "faculty": "Trường Đại học Kinh tế - Quản trị Kinh doanh",
+                "programs": [
+                    {
+                        "name": "Kinh tế quốc tế",
+                        "code": "KT01"
+                    },
+                    {
+                        "name": "Tài chính ngân hàng",
+                        "code": "KT02"
+                    },
+                    {
+                        "name": "Quản trị kinh doanh",
+                        "code": "KT03"
+                    },
+                    {
+                        "name": "Marketing",
+                        "code": "KT04"
+                    },
+                    {
+                        "name": "Kế toán",
+                        "code": "KT05"
+                    },
+                    {
+                        "name": "Kinh tế phát triển",
+                        "code": "KT06"
+                    },
+                    {
+                        "name": "Logistics và Quản lý chuỗi cung ứng",
+                        "code": "KT07"
+                    },
+                    {
+                        "name": "Quản trị nhân sự",
+                        "code": "KT08"
+                    },
+                    {
+                        "name": "Kinh doanh quốc tế",
+                        "code": "KT09"
+                    },
+                    {
+                        "name": "Thương mại điện tử",
+                        "code": "KT10"
+                    }
+                ]
+            },
+            {
+                "faculty": "Trường Đại học Ngoại ngữ",
+                "programs": [
+                    {
+                        "name": "Ngôn ngữ Anh",
+                        "code": "NN01"
+                    },
+                    {
+                        "name": "Ngôn ngữ Pháp",
+                        "code": "NN02"
+                    },
+                    {
+                        "name": "Ngôn ngữ Đức",
+                        "code": "NN03"
+                    },
+                    {
+                        "name": "Ngôn ngữ Trung Quốc",
+                        "code": "NN04"
+                    },
+                    {
+                        "name": "Ngôn ngữ Hàn Quốc",
+                        "code": "NN05"
+                    },
+                    {
+                        "name": "Ngôn ngữ Nhật Bản",
+                        "code": "NN06"
+                    },
+                    {
+                        "name": "Ngôn ngữ Tây Ban Nha",
+                        "code": "NN07"
+                    },
+                    {
+                        "name": "Ngôn ngữ Ý",
+                        "code": "NN08"
+                    },
+                    {
+                        "name": "Ngôn ngữ Nga",
+                        "code": "NN09"
+                    },
+                    {
+                        "name": "Ngôn ngữ Ả Rập",
+                        "code": "NN10"
+                    }
+                ]
+            },
+            {
+                "faculty": "Trường Đại học Y Dược",
+                "programs": [
+                    {
+                        "name": "Y khoa",
+                        "code": "YD01"
+                    },
+                    {
+                        "name": "Dược học",
+                        "code": "YD02"
+                    },
+                    {
+                        "name": "Y học cổ truyền",
+                        "code": "YD03"
+                    },
+                    {
+                        "name": "Răng hàm mặt",
+                        "code": "YD04"
+                    },
+                    {
+                        "name": "Điều dưỡng",
+                        "code": "YD05"
+                    },
+                    {
+                        "name": "Kỹ thuật xét nghiệm y học",
+                        "code": "YD06"
+                    },
+                    {
+                        "name": "Kỹ thuật y học",
+                        "code": "YD07"
+                    },
+                    {
+                        "name": "Y tế công cộng",
+                        "code": "YD08"
+                    },
+                    {
+                        "name": "Kỹ thuật phục hồi chức năng",
+                        "code": "YD09"
+                    },
+                    {
+                        "name": "Dinh dưỡng học",
+                        "code": "YD10"
+                    }
+                ]
+            },
+            {
+                "faculty": "Trường Đại học Khoa học và Công nghệ",
+                "programs": [
+                    {
+                        "name": "Công nghệ thông tin",
+                        "code": "ST01"
+                    },
+                    {
+                        "name": "Công nghệ điện tử",
+                        "code": "ST02"
+                    },
+                    {
+                        "name": "Kỹ thuật cơ khí",
+                        "code": "ST03"
+                    },
+                    {
+                        "name": "Kỹ thuật điện",
+                        "code": "ST04"
+                    },
+                    {
+                        "name": "Công nghệ chế tạo máy",
+                        "code": "ST05"
+                    },
+                    {
+                        "name": "Kỹ thuật tự động hóa",
+                        "code": "ST06"
+                    },
+                    {
+                        "name": "Kỹ thuật phần mềm",
+                        "code": "ST07"
+                    },
+                    {
+                        "name": "Công nghệ môi trường",
+                        "code": "ST08"
+                    },
+                    {
+                        "name": "Công nghệ thực phẩm",
+                        "code": "ST09"
+                    },
+                    {
+                        "name": "Quản lý công nghiệp",
+                        "code": "ST10"
+                    }
+                ]
+            },
+            {
+                "faculty": "Trường Đại học Giáo dục",
+                "programs": [
+                    {
+                        "name": "Sư phạm Tiểu học",
+                        "code": "GD01"
+                    },
+                    {
+                        "name": "Sư phạm Toán học",
+                        "code": "GD02"
+                    },
+                    {
+                        "name": "Sư phạm Vật lý",
+                        "code": "GD03"
+                    },
+                    {
+                        "name": "Sư phạm Hóa học",
+                        "code": "GD04"
+                    },
+                    {
+                        "name": "Sư phạm Sinh học",
+                        "code": "GD05"
+                    },
+                    {
+                        "name": "Sư phạm Ngữ văn",
+                        "code": "GD06"
+                    },
+                    {
+                        "name": "Sư phạm Lịch sử",
+                        "code": "GD07"
+                    },
+                    {
+                        "name": "Sư phạm Ngoại ngữ",
+                        "code": "GD08"
+                    },
+                    {
+                        "name": "Sư phạm Giáo dục đặc biệt",
+                        "code": "GD09"
+                    },
+                    {
+                        "name": "Sư phạm Giáo dục công dân",
+                        "code": "GD10"
+                    }
+                ]
+            },
+            {
+                "faculty": "Trường Đại học Luật",
+                "programs": [
+                    {
+                        "name": "Luật học",
+                        "code": "LH01"
+                    },
+                    {
+                        "name": "Quản trị pháp lý",
+                        "code": "LH02"
+                    },
+                    {
+                        "name": "Luật kinh tế",
+                        "code": "LH03"
+                    },
+                    {
+                        "name": "Luật quốc tế",
+                        "code": "LH04"
+                    },
+                    {
+                        "name": "Quản trị và luật quốc tế",
+                        "code": "LH05"
+                    },
+                    {
+                        "name": "Luật hành chính",
+                        "code": "LH06"
+                    },
+                    {
+                        "name": "Luật môi trường",
+                        "code": "LH07"
+                    },
+                    {
+                        "name": "Tư pháp quốc tế",
+                        "code": "LH08"
+                    },
+                    {
+                        "name": "Tư vấn pháp lý",
+                        "code": "LH09"
+                    },
+                    {
+                        "name": "Pháp lý và tài chính",
+                        "code": "LH10"
+                    }
+                ]
+            },
+            {
+                "faculty": "Trường Đại học Quản lý và Kinh doanh",
+                "programs": [
+                    {
+                        "name": "Quản trị kinh doanh",
+                        "code": "QM01"
+                    },
+                    {
+                        "name": "Kinh tế quốc tế",
+                        "code": "QM02"
+                    },
+                    {
+                        "name": "Quản trị marketing",
+                        "code": "QM03"
+                    },
+                    {
+                        "name": "Quản trị tài chính",
+                        "code": "QM04"
+                    },
+                    {
+                        "name": "Quản trị nhân sự",
+                        "code": "QM05"
+                    },
+                    {
+                        "name": "Quản trị dự án",
+                        "code": "QM06"
+                    },
+                    {
+                        "name": "Kinh doanh quốc tế",
+                        "code": "QM07"
+                    },
+                    {
+                        "name": "Tài chính doanh nghiệp",
+                        "code": "QM08"
+                    },
+                    {
+                        "name": "Kế toán",
+                        "code": "QM09"
+                    },
+                    {
+                        "name": "Quản lý chuỗi cung ứng",
+                        "code": "QM10"
+                    }
+                ]
+            },
+            {
+                "faculty": "Trường Đại học Công nghệ Thông tin",
+                "programs": [
+                    {
+                        "name": "Kỹ thuật phần mềm",
+                        "code": "CNTT01"
+                    },
+                    {
+                        "name": "Hệ thống thông tin",
+                        "code": "CNTT02"
+                    },
+                    {
+                        "name": "Khoa học máy tính",
+                        "code": "CNTT03"
+                    },
+                    {
+                        "name": "Công nghệ thông tin",
+                        "code": "CNTT04"
+                    },
+                    {
+                        "name": "An ninh mạng",
+                        "code": "CNTT05"
+                    },
+                    {
+                        "name": "Quản trị mạng",
+                        "code": "CNTT06"
+                    },
+                    {
+                        "name": "Phát triển ứng dụng di động",
+                        "code": "CNTT07"
+                    },
+                    {
+                        "name": "Kỹ thuật máy tính",
+                        "code": "CNTT08"
+                    },
+                    {
+                        "name": "Học máy và trí tuệ nhân tạo",
+                        "code": "CNTT09"
+                    },
+                    {
+                        "name": "Công nghệ phần mềm và dịch vụ đám mây",
+                        "code": "CNTT10"
+                    }
+                ]
+            },
+            {
+                "faculty": "Trường Đại học Khoa học Môi trường",
+                "programs": [
+                    {
+                        "name": "Kỹ thuật môi trường",
+                        "code": "KHMV01"
+                    },
+                    {
+                        "name": "Khoa học môi trường",
+                        "code": "KHMV02"
+                    },
+                    {
+                        "name": "Quản lý môi trường",
+                        "code": "KHMV03"
+                    },
+                    {
+                        "name": "Kỹ thuật tài nguyên nước",
+                        "code": "KHMV04"
+                    },
+                    {
+                        "name": "Công nghệ sinh học môi trường",
+                        "code": "KHMV05"
+                    },
+                    {
+                        "name": "Chính sách và quản lý môi trường",
+                        "code": "KHMV06"
+                    },
+                    {
+                        "name": "Bảo vệ môi trường",
+                        "code": "KHMV07"
+                    },
+                    {
+                        "name": "Địa lý và môi trường",
+                        "code": "KHMV08"
+                    },
+                    {
+                        "name": "Quản lý chất thải",
+                        "code": "KHMV09"
+                    },
+                    {
+                        "name": "Hệ thống thông tin môi trường",
+                        "code": "KHMV10"
+                    }
+                ]
+            },
+            {
+                "faculty": "Trường Đại học Nông nghiệp và Phát triển Nông thôn",
+                "programs": [
+                    {
+                        "name": "Nông học",
+                        "code": "NN01"
+                    },
+                    {
+                        "name": "Chăn nuôi",
+                        "code": "NN02"
+                    },
+                    {
+                        "name": "Thủy sản",
+                        "code": "NN03"
+                    },
+                    {
+                        "name": "Kỹ thuật nông nghiệp",
+                        "code": "NN04"
+                    },
+                    {
+                        "name": "Quản lý nông nghiệp",
+                        "code": "NN05"
+                    },
+                    {
+                        "name": "Công nghệ thực phẩm",
+                        "code": "NN06"
+                    },
+                    {
+                        "name": "Phát triển nông thôn",
+                        "code": "NN07"
+                    },
+                    {
+                        "name": "Kỹ thuật thủy sản",
+                        "code": "NN08"
+                    },
+                    {
+                        "name": "Lâm nghiệp",
+                        "code": "NN09"
+                    },
+                    {
+                        "name": "Quản lý tài nguyên thiên nhiên",
+                        "code": "NN10"
+                    }
+                ]
+            },
+            {
+                "faculty": "Trường Đại học Khoa học Xã hội và Nhân văn",
+                "programs": [
+                    {
+                        "name": "Triết học",
+                        "code": "HS01"
+                    },
+                    {
+                        "name": "Tâm lý học",
+                        "code": "HS02"
+                    },
+                    {
+                        "name": "Lịch sử",
+                        "code": "HS03"
+                    },
+                    {
+                        "name": "Ngữ văn",
+                        "code": "HS04"
+                    },
+                    {
+                        "name": "Ngoại ngữ",
+                        "code": "HS05"
+                    },
+                    {
+                        "name": "Xã hội học",
+                        "code": "HS06"
+                    },
+                    {
+                        "name": "Địa lý",
+                        "code": "HS07"
+                    },
+                    {
+                        "name": "Ngữ văn Anh",
+                        "code": "HS08"
+                    },
+                    {
+                        "name": "Văn hóa học",
+                        "code": "HS09"
+                    },
+                    {
+                        "name": "Quản lý văn hóa",
+                        "code": "HS10"
+                    }
+                ]
+            },
+            {
+                "faculty": "Trường Đại học Kinh tế",
+                "programs": [
+                    {
+                        "name": "Kinh tế học",
+                        "code": "KT01"
+                    },
+                    {
+                        "name": "Kinh tế quốc tế",
+                        "code": "KT02"
+                    },
+                    {
+                        "name": "Kinh tế phát triển",
+                        "code": "KT03"
+                    },
+                    {
+                        "name": "Kinh tế học chính trị",
+                        "code": "KT04"
+                    },
+                    {
+                        "name": "Quản trị kinh doanh",
+                        "code": "KT05"
+                    },
+                    {
+                        "name": "Marketing",
+                        "code": "KT06"
+                    },
+                    {
+                        "name": "Tài chính ngân hàng",
+                        "code": "KT07"
+                    },
+                    {
+                        "name": "Kế toán",
+                        "code": "KT08"
+                    },
+                    {
+                        "name": "Kinh tế công cộng",
+                        "code": "KT09"
+                    },
+                    {
+                        "name": "Kinh doanh quốc tế",
+                        "code": "KT10"
+                    }
+                ]
+            },
+            {
+                "faculty": "Trường Đại học Kỹ thuật",
+                "programs": [
+                    {
+                        "name": "Công nghệ thông tin",
+                        "code": "KT01"
+                    },
+                    {
+                        "name": "Công nghệ cơ khí",
+                        "code": "KT02"
+                    },
+                    {
+                        "name": "Kỹ thuật điện",
+                        "code": "KT03"
+                    },
+                    {
+                        "name": "Kỹ thuật cơ điện tử",
+                        "code": "KT04"
+                    },
+                    {
+                        "name": "Kỹ thuật xây dựng",
+                        "code": "KT05"
+                    },
+                    {
+                        "name": "Công nghệ chế tạo máy",
+                        "code": "KT06"
+                    },
+                    {
+                        "name": "Công nghệ thực phẩm",
+                        "code": "KT07"
+                    },
+                    {
+                        "name": "Công nghệ môi trường",
+                        "code": "KT08"
+                    },
+                    {
+                        "name": "Kỹ thuật phần mềm",
+                        "code": "KT09"
+                    },
+                    {
+                        "name": "Kỹ thuật tự động hóa",
+                        "code": "KT10"
+                    }
+                ]
+            },
+            {
+                "faculty": "Trường Đại học Nghệ thuật",
+                "programs": [
+                    {
+                        "name": "Vẽ tranh",
+                        "code": "NA01"
+                    },
+                    {
+                        "name": "Nhiếp ảnh",
+                        "code": "NA02"
+                    },
+                    {
+                        "name": "Thiết kế đồ họa",
+                        "code": "NA03"
+                    },
+                    {
+                        "name": "Thiết kế nội thất",
+                        "code": "NA04"
+                    },
+                    {
+                        "name": "Điện ảnh",
+                        "code": "NA05"
+                    },
+                    {
+                        "name": "Sáng tác âm nhạc",
+                        "code": "NA06"
+                    },
+                    {
+                        "name": "Múa",
+                        "code": "NA07"
+                    },
+                    {
+                        "name": "Sân khấu",
+                        "code": "NA08"
+                    },
+                    {
+                        "name": "Đồ họa 3D",
+                        "code": "NA09"
+                    },
+                    {
+                        "name": "Thời trang",
+                        "code": "NA10"
+                    }
+                ]
+            }
+        ]
+    }
+]
